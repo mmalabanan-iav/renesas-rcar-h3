@@ -31,6 +31,7 @@ apps=(
     "xterm"
     "zstd"
     "liblz4-tool"
+    "minicom"
 )
 
 PKG_MANAGER="apt"
