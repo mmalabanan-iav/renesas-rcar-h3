@@ -1,2 +1,6 @@
 build_h3ulcb/
 log/
+
+# files
+package*.json
+
