@@ -18,3 +18,6 @@ This repository will contain scripts that will help building and running Yocto o
 - [https://elinux.org/R-Car/Boards/H3SK#H3SK_with_SINGLE_RANKED_DDR](https://elinux.org/R-Car/Boards/H3SK#H3SK_with_SINGLE_RANKED_DDR)
 
 **Note**: The last link is not necessarily needed since a newer Yocto (>3.x.x) is used.
+
+**Note**: It took over 6 hours to compile the BSP on a Mini PC with Intel N97 at 3.6GHz with 12 GB of RAM.
+
