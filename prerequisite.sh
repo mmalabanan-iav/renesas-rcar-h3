@@ -32,6 +32,7 @@ apps=(
     "zstd"
     "liblz4-tool"
     "minicom"
+    "bmaptool"
 )
 
 PKG_MANAGER="apt"
