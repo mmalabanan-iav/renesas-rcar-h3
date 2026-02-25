@@ -4,10 +4,13 @@ This repository will contain scripts that will help building and running Yocto o
 
 ## Scripts
 
+For fresh install/build for R-Car, we suggest to execute the scripts in order of listing.
+
 | **Filename** | **Description** |
 | --- | --- |
 | `prerequisite.sh` | Installs host dependencies using `apt` and prepares `proprietary/` for required ZIPs. |
 | `build.sh` | Clones Yocto layers (`poky`, `meta-openembedded`, `meta-renesas`), configures the build, and runs `bitbake`. |
+| `sd_flash.sh` | Will prepare the SD card for copying of the Yocto Image into the SD card. |
 | `serial.sh` | Opens a minicom session and saves logs under `log/`. |
 
 ## U-Boot command
