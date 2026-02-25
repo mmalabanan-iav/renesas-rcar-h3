@@ -10,6 +10,12 @@ This repository will contain scripts that will help building and running Yocto o
 | `build.sh` | Clones Yocto layers (`poky`, `meta-openembedded`, `meta-renesas`), configures the build, and runs `bitbake`. |
 | `serial.sh` | Opens a minicom session and saves logs under `log/`. |
 
+## Login Info
+
+| **username** | **password** |
+| --- | --- |
+| root | |
+
 ## Links
 
 - [https://elinux.org/R-Car/Boards/Yocto-Gen3/v5.9.7](https://elinux.org/R-Car/Boards/Yocto-Gen3/v5.9.7)
